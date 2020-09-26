@@ -1,5 +1,6 @@
 # WebRTC Reference
-- memo
+- This document gathers the reference links for understanding WebRTC technology
+- It's basically for personal use, but contribution is always welcome.
 
 ## Abstract and Introduction
 
