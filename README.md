@@ -3,11 +3,16 @@
 
 ## Abstract and Introduction
 
+### General
 - [Wikipedia](https://ja.wikipedia.org/wiki/WebRTC)
 - [WebRTCコトハジメ](https://qiita.com/yusuke84/items/286f569d110daede721e)
 - [WebRTCトラノマキ](https://webrtc.shiguredo.jp/index.html)
 - [WebRTCの技術解説](https://www.slideshare.net/nttwestcon/20140805-technical-descriptionofwebrtcpublicedition)
 - [WebRTCプロトコル入門](https://developer.mozilla.org/ja/docs/Web/API/WebRTC_API/Protocols)
+
+### STUN and TURN
+- [壁を越えろ！WebRTCでNAT/Firewallを越えて通信しよう](https://html5experts.jp/mganeko/5554/)
+
 
 ## Hands On
 - [Firebase + WebRTCコードラボ](https://webrtc.org/getting-started/firebase-rtc-codelab)
@@ -17,9 +22,6 @@
 
 ### Client
 - https://webrtc.github.io/samples/
-
-## STUN and TURN
-- [壁を越えろ！WebRTCでNAT/Firewallを越えて通信しよう](https://html5experts.jp/mganeko/5554/)
 
 ## Platform and Tools
 - [SkyWay](https://webrtc.ecl.ntt.com/)
